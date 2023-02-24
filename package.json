@@ -1,0 +1,21 @@
+{
+  "name": "@laomao800/parse-size",
+  "version": "2.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/laomao800/parse-size",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js",
+    "types.d.ts"
+  ],
+  "types": "types.d.ts",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
