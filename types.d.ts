@@ -24,6 +24,6 @@ declare const parseSize: (
     | "vw"
     | "vmin"
     | "vmax"
-) => string;
+) => string | undefined;
 
 export = parseSize;
